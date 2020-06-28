@@ -1,5 +1,6 @@
 <html>
-<style>
+<head>
+    <style>
 :root {
     --bg-color: #71697A;
     --txt-color: #fff;
@@ -12,7 +13,7 @@ body {
     font-family: Arial, sans-serif;
 }
 p{
-	color: var(--txt-color);
+    color: var(--txt-color);
     font-size: 3rem;
     margin:0rem;
 }
@@ -26,8 +27,6 @@ a{
     color: var(--link-color);
 }
 </style>
-
-<head>
 </head>
 
 <body>
